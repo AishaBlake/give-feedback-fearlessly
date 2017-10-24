@@ -22,7 +22,7 @@ body {
   font-family: "Lato", sans-serif;
   font-size: 36px;
   font-weight: normal;
-  color: #4b5555; }
+  color: #2E343B; }
 
 ::selection {
   color: #fff;
@@ -44,7 +44,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #2e343b;
+  color: #0E0E10;
   font-family: Futura, Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;

@@ -219,6 +219,10 @@ body {
 .reveal small * {
   vertical-align: top; }
 
+.reveal .full-page h3 {
+  background-color: rgba(202,138,138,0.5);
+}
+
 /*********************************************
  * LINKS
  *********************************************/
